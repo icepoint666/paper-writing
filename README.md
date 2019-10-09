@@ -5,7 +5,7 @@ Latex公式速查：https://lindexi.gitee.io/post/Latex-%E5%85%AC%E5%BC%8F%E9%80
 Latex线上编辑以及documentation: https://www.overleaf.com
 
 Latex本地：
-  - Windows: TexStudio + Miktex
+  - Windows: TexStudio + Miktex (安装下载：http://texstudio.sourceforge.net/ + https://miktex.org/download）
   - Mac: sublime text 3
   
 第一遍按照paper用词以及语法上去衡量
