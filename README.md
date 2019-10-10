@@ -14,6 +14,8 @@ Latex本地：
 
 一些工具：
 
-绘图工具：visio
+  - 绘图工具：visio
+  - gif maker: https://ezgif.com/maker
 
-gif maker: https://ezgif.com/maker
+更多关于论文写作：
+  - 周志华教授PPT
