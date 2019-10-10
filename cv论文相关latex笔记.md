@@ -42,7 +42,7 @@ and pagesize and fontsize parameters.
 \end{document}
 ```
 
-前面定义好的\title,\maketitle可以将它显示出来
+前面定义好的\title 以及作者邮箱,\maketitle可以将它们都显示出来
 
 **注释是%**
 
