@@ -70,6 +70,6 @@ and pagesize and fontsize parameters.
 
 我在一个被\input的子.tex文件中使用了\include，结果编译错误。似乎是\include不可以递归使用，而\input是可以的。
 
-原文链接：
+原文链接：https://blog.csdn.net/weixin_42919606/article/details/82939495
 
-https://blog.csdn.net/weixin_42919606/article/details/82939495
+**\vspace{1cm}来产生一个空格,利用命令\vskip{0.3cm}来产生垂直的空隙**
