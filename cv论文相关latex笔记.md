@@ -73,3 +73,9 @@ and pagesize and fontsize parameters.
 原文链接：https://blog.csdn.net/weixin_42919606/article/details/82939495
 
 **\vspace{1cm}来产生一个空格,利用命令\vskip{0.3cm}来产生垂直的空隙**
+
+**LaTex插图命令includegraphics参数详解**
+
+命令:\includegraphics
+
+链接：https://www.cnblogs.com/yifdu25/p/8326025.html
