@@ -1,5 +1,7 @@
 # paper-writing
 
+公开了一些论文审稿意见的网址：https://openreview.net/forum?id=HyeqPJHYvH
+
 Latex公式速查：https://lindexi.gitee.io/post/Latex-%E5%85%AC%E5%BC%8F%E9%80%9F%E6%9F%A5.html#%E7%82%B9
 
 Latex线上编辑以及documentation: https://www.overleaf.com
